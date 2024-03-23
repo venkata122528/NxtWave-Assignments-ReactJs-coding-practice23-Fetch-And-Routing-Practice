@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.BlogItemDetailsContainer {
+  align-items: center;
+  padding: 10px;
+}
+
+.title {
+  text-align: center;
+}
+
+.authorDataContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.mainImage {
+  width: 100%;
+}
